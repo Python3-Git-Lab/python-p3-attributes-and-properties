@@ -49,4 +49,4 @@ class Dog:
     breed = property(get_breed, set_breed)
     
 
-breed1 = Dog("Kelvin","Mastiff")
+breed1 = Dog(0,"Mastiff")
